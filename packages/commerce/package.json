@@ -73,7 +73,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "taskr": "^1.1.0",
-    "taskr-swc": "^0.0.1",
+   
     "typescript": "^4.7.4"
   },
   "lint-staged": {
